@@ -244,7 +244,3 @@ __pycache__/
 logs/
 Artifacts/
 ```
-
-## Disclaimer
-
-This project is intended for learning and demonstration of an end-to-end machine learning and MLOps workflow for network security classification. It should not be treated as a production-grade security detection system without additional validation, monitoring, and security hardening.
